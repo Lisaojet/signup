@@ -1,2 +1,2 @@
 # signup
-This is sign up pages HTML without CSS
+This is sign up pages HTML/CSS
